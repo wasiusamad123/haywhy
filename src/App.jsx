@@ -28,7 +28,7 @@ const siteProps = {
   title: "Web Designer & Graphics Designer",
   email: "wasiusamad123@gmail.com",
   gitHub: "https://github.com/wasiusamad123",
-  instagram: "microsoft",
+  instagram: "https://www.instagram.com/official_a.somod123",
   linkedIn: "https://www.linkedin.com/in/wasiu-samad-a97a59234/",
   medium: "",
   twitter: "https://twitter.com/@Wasiu_Somod",
