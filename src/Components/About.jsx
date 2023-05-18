@@ -24,8 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Alex Ekwueme Federal University Ndufu Alike Ikwo. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I'm an accomplished full-stack software developer with extensive proficiency in advanced programming languages. My professional background demonstrates a strong dedication to continuous learning and a track record of successful contributions to various projects, which have significantly enhanced my skill set and broadened my knowledge base. I derive great satisfaction from employing innovative approaches to design distinct and intuitive user interfaces that embody simplicity and creativity."
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -35,7 +34,6 @@ const skillsList = [
   "User experience",
   "Inclusive design",
   "Focus group testing",
-  "Mobile user interfaces",
   "Graphic design",
 ];
 
@@ -45,8 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+ "I'm passionate about driving innovation and solving problems in new creative ways as a full-stack developer. With a solid foundation in both front-end and back-end development, I constantly seek opportunities to leverage my skills and experience to make technology accessible to all. By combining my expertise in UI/UX design with my comprehensive knowledge of full-stack development, I strive to create seamless and user-friendly experiences that enhance usability and engagement. I am committed to continuously exploring new and better approaches, pushing the boundaries of what is possible, and contributing to the advancement of technology in meaningful ways."
 const About = () => {
   return (
     <section className="light" id="about">
