@@ -30,17 +30,28 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+   {
+    title: "10 Things to know about Azure Static Web Apps 🎉",
+    description: "Collaboration to create a beginner friendly....",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather app that displays weather information for a given location 🎉",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The weather app code is a PHP,API  script that uses the OpenWeatherMap API to display the current weather information for a selected state in Nigeria.",
+    url: "https://github.com/wasiusamad123/weather-app",
+   },
+  {
+    title: "Genotype & Blood Group Compatibility Checker",
+    description:
+      "Blood type compatibility is important to consider in case of potential blood transfusions or pregnancy complications, as receiving blood with incompatible antigens can lead to harmful reactions in the body.",
+    url: "https://github.com/wasiusamad123/compatibility-checker",
+  },
+  {
+    title: "Laravel UI/UX Jetstream Package",
+    description:
+      "Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.",
+    url: "https://github.com/wasiusamad123/Larave-9-Jetstream-Ui-Package",
   },
   {
     title: "My Resume Site",
@@ -48,6 +59,7 @@ const projectList = [
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
+
   {
     title: "GitHub Codespaces and github.dev",
     description:
